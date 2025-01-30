@@ -1,0 +1,1 @@
+This repository contains examples of common coding errors in Kotlin and demonstrates how to fix them.  The examples showcase type handling issues, potential NullPointerExceptions, and how to avoid infinite loops.  Each example includes a buggy version and a corrected version for comparison.  This is useful for learning and improving Kotlin coding practices.
